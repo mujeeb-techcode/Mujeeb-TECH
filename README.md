@@ -4,7 +4,6 @@
 🚀 Currently learning **AI, Machine Learning & Data Science**  
 📚 Always exploring new technologies and building projects  
 🤝 Open to collaboration on real-world projects   
-
 ---
 
 ## 🔧 Skills
