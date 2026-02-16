@@ -6,7 +6,3 @@
 🤝 Open to collaboration on real-world projects   
 ---
 
-
--
-
-
